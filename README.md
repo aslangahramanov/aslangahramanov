@@ -55,4 +55,10 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif"  />
 
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/aslangahramanov/aslangahramanov/output/snake.svg" alt="Snake animation" />
+
+###
